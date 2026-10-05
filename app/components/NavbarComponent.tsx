@@ -14,7 +14,7 @@ const NavbarComponent = () => {
     </div>
 
     <div className="border border-black h-full py-2 px-8 rounded-4xl">
-        <Link href={"/pages/login"}>Masuk</Link>
+        <Link href={"/login"}>Masuk</Link>
     </div>
     </div>
     
